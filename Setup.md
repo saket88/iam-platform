@@ -225,3 +225,5 @@ KUBECONFIG=~/.kube/config-lima-k0s kubectl delete -k overlays/local/
 5. **Step 9**: Ongoing management with context switching
 
 > **⚠️ Important**: Always use preview scripts before deploying to see exactly what changes will be made!
+
+https://claude.ai/public/artifacts/b7602b65-a48b-477d-97bf-8373bfe0e3e0  as a reference artifact
